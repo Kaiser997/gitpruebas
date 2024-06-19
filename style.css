@@ -6,3 +6,8 @@ body {
     color: navy;
     margin-left: 20px;
     }
+
+#animal{
+    width: 500px;
+    height: 500px;
+}
